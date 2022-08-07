@@ -1,6 +1,6 @@
 ## About me:
 
-- 😊 **My name is Sophia, a full-stack developer from Brazil**
+- 😊 **Hi! I'm a full-stack developer from Brazil**
 - 🔭 **Currently looking for a programming job**
 - ⚡ **My skills include React, Node.js, Typescript and Tailwind**
 - 💻 **I use (Arch)Linux as my main operating system**
