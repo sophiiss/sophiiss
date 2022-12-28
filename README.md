@@ -3,7 +3,7 @@
 - 😊 **Hi! I'm a full-stack developer from Brazil**
 - 🔭 **Currently looking for a programming job**
 - ⚡ **My skills include React, Node.js, Typescript and Tailwind**
-- 💻 **I use (Arch)Linux as my main operating system**
+- 💻 **I use Fedora as my main operating system**
 - 💖 **I love learning everything related to technology**
 - 🧶 **And I love cats**
 
