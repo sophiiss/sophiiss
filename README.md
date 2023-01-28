@@ -1,7 +1,6 @@
 ## About me:
 
 - 😊 **Hi! I'm a full-stack developer from Brazil**
-- 🔭 **Currently looking for a programming job**
 - ⚡ **My skills include React, Node.js, Typescript and Tailwind**
 - 💻 **I use Fedora as my main operating system**
 - 💖 **I love learning everything related to technology**
@@ -9,7 +8,7 @@
 
 ---
 
-## My tech stack
+## My stack
 
 <div style="display: inline-block">
   <img width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
