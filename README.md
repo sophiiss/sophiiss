@@ -21,13 +21,4 @@
   <img width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </div>
 
-## My stats:
-
-<div style="display: inline-block">
-<a href="https://github.com/empsps">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=empsps&show_icons=true&title_color=cba6f7&bg_color=1e1e2e&text_color=cdd6f4&border_color=cba6f7&icon_color=cba6f7"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=empsps&layout=compact&title_color=cba6f7&bg_color=1e1e2e&text_color=cdd6f4&border_color=cba6f7&icon_color=cba6f7"/>
-</a>
-</div>
-
 ---
